@@ -14,3 +14,5 @@
 # 蓝牙知识总结
 
   * [蓝牙基础介绍](./doc/bluetooth_introduce.pdf)
+
+  * [BLE学习](./doc/BLE_analyse.md)
