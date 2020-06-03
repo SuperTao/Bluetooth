@@ -8,7 +8,7 @@
 
   * [wireshark](https://www.wireshark.org/#download): 万能的wireshark。  
   
-  * [frontline-comprobe-protocol-analysis-sys)](https://frontline-comprobe-protocol-analysis-sys.software.informer.com/): 一款很好用的HCI日志查看工具，可读性高。
+  * [frontline-comprobe-protocol-analysis-sys)](https://frontline-comprobe-protocol-analysis-sys.software.informer.com): 一款很好用的HCI日志查看工具，可读性高。
 
 
 # 蓝牙知识总结
