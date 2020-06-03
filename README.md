@@ -17,4 +17,4 @@
 
   * [BLE学习](./doc/BLE_analyse.md)
 
-  * [HCI日志分析](./doc/hci_analyse.md)
+  * [HCI日志分析](./doc/HCI_analyse.md)
