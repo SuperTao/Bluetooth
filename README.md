@@ -16,3 +16,5 @@
   * [蓝牙基础介绍](./doc/bluetooth_introduce.pdf)
 
   * [BLE学习](./doc/BLE_analyse.md)
+
+  * [HCI日志分析](./doc/hci_analyse.md)
