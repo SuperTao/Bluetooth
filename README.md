@@ -2,11 +2,9 @@
 
 # 蓝牙官方文档
 
-上[蓝牙官网](https://www.bluetooth.com)下载或者使用已经下载的[Core_v5.1](./doc/Core_v5.1.pdf)。
+* [蓝牙官网](https://www.bluetooth.com)
 
-# 参考链接
-
-* [蓝牙为什么叫蓝牙？](https://www.zhihu.com/question/20680730)
+* 使用已经下载的[Core_v5.1](./doc/Core_v5.1.pdf)。
 
 # HCI日志查看工具：
 

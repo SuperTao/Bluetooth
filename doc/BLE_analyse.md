@@ -16,7 +16,7 @@
 
   安森美的蓝牙芯片，是Cortex-M的内核。相比TI的CC系列，算是比较高级的CPU了。
 
-# Telink
+# Telink系列
 
   国内的BLE芯片制造商。基于telink826x系列，主要分析SDK V3.2的代码。
 
