@@ -19,3 +19,7 @@
 * [BLE学习](./doc/BLE_analyse.md)
 
 * [HCI日志分析](./doc/HCI_analyse.md)
+
+# 蓝牙问题
+
+* [蓝牙搜索设备太慢](./doc/蓝牙扫描设备太慢.md)
