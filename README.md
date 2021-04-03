@@ -26,4 +26,4 @@
 
 # bluez学习
 
-× [bluetoothctl设置ble](./doc/bluetoothctl_ble.md)
+* [bluetoothctl设置ble](./doc/bluetoothctl_ble.md)
