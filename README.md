@@ -23,3 +23,7 @@
 # 蓝牙问题
 
 * [蓝牙搜索设备太慢](./doc/蓝牙扫描设备太慢.md)
+
+# bluez学习
+
+× [bluetoothctl设置ble](./doc/bluetoothctl_ble.md)
