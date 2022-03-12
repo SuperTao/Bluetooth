@@ -27,7 +27,7 @@ dbus-deamon放到指定目录中。
 
 bluetoothd放到指定目录中。
 
-# 3. 执行顺序：
+### 3. 执行顺序：
 
 ```
 insmod /usr/lib/modules/hci_uart.ko
