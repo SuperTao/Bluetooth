@@ -29,3 +29,5 @@
 * [bluetoothctl设置ble](./doc/bluetoothctl_ble.md)
 
 * [bluetoothctl读取gatt属性](./doc/bluetoothctl_ble_gatt属性.md)
+
+* [bluez协议栈移植](./doc/bluez协议栈移植.md)
